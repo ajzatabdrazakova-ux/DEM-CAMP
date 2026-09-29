@@ -1,0 +1,6 @@
+{
+  "name": "DEM-CAMP — Студенттик платформа",
+  "description": "А. Мырсабеков атындагы Ош мамлекеттик педагогикалык университетинин (ОшМПУ) студенттик «DEM-CAMP» ачык платформасы.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
